@@ -1,6 +1,13 @@
 # Project Title
 
-Small front-end project built as part of The Odin Project.
+Brief one-line description of what the project does.
+Built as part of [The Odin Project](https://www.theodinproject.com).
+
+Live Demo: [Link](#)
+
+## Overview
+
+2-3 sentences describing the project, its purpose, and the design approach.
 
 ## Features
 
@@ -10,6 +17,21 @@ Small front-end project built as part of The Odin Project.
 
 ## Built With
 
-- HTML
-- CSS
-- JavaScript
+- HTML5
+- CSS3
+- JavaScript (ES6 modules)
+
+## What I Practiced
+
+- Skill or concept one
+- Skill or concept two
+- Skill or concept three
+
+## Project Structure
+
+```
+project-name/
+├── index.html
+├── style.css
+└── script.js
+```
